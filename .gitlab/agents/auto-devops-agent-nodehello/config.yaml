@@ -1,0 +1,9 @@
+user_access:
+  access_as:
+    agent: {}
+  projects:
+    - id: root/node-hello
+
+ci_access:
+  projects:
+    - id: root/node-hello
